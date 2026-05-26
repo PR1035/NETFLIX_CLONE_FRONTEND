@@ -76,6 +76,13 @@ nav button{
     text-align: center;
 }
 
+.hero-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
 .separation {
     height: 5px;
     background-color: grey;
